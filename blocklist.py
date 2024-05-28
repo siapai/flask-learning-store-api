@@ -1,0 +1,5 @@
+"""
+Token blocklist
+"""
+
+BLOCKLIST = set()
